@@ -7,8 +7,6 @@
 
 
 
-[![the404dude's GitHub stats](https://github-readme-stats.vercel.app/api?username=the404dude)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=blue-green)
-
 
 
 
